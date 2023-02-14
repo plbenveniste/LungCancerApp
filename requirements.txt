@@ -2,7 +2,7 @@ gunicorn
 dash==2.8.1
 matplotlib==3.1.1
 numpy==1.17.3
-pandas==1.4.2
+pandas==0.24.2
 plotly==5.13.0
 scikit-learn==1.0.2
 shap==0.41.0
