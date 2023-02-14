@@ -5,5 +5,5 @@ numpy==1.17.3
 pandas==0.24.2
 plotly==5.13.0
 scikit-learn==1.0.2
-shap==0.41.0
+shap==0.32.0
 xgboost==1.6.1
