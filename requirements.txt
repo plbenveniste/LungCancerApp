@@ -7,4 +7,4 @@ plotly==4.4.1
 scikit-learn==0.22
 shap==0.32.0
 xgboost==0.90
-scipy==0.14.0
+scipy==0.17.0
