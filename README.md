@@ -1,11 +1,11 @@
 # LungCancer
 Web app to predict lung cancer risk in the next 10 years. 
 
-##Data
+## Data
 
 The Data used comes from (to be completed)
 
-##Repository files
+## Repository files
 The repository includes the following files : 
 
 assets
@@ -26,7 +26,7 @@ main app
 - requirements.txt - The requirements.txt file for Heroku
 - runtime.txt - The python required version for Heroku
 
-##To run locally
+## To run locally
 
 In order to run this code on your machine : 
 - run the requirements.txt file : 'pip install -r requirements.txt
