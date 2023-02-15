@@ -29,5 +29,5 @@ main app
 ## To run locally
 
 In order to run this code on your machine : 
-- run the requirements.txt file : 'pip install -r requirements.txt
-- launch the app : 'python index.py'
+- run the requirements.txt file : ``` pip install -r requirements.txt ```
+- launch the app : ``` python index.py ```
