@@ -88,7 +88,7 @@ layout = html.Div([
   
   html.P([html.Br()]),  
   html.P([html.Br()]),
-  html.Div(html.P(['The predicted probability of lung cancer in the next ? years is:']), style={'fontWeight': 'bold', 'color': '#48a1af', 'font-size': 'large', 'text-align': 'center'}),
+  html.Div(html.P(['The predicted probability of lung cancer in the next 10 years is:']), style={'fontWeight': 'bold', 'color': '#48a1af', 'font-size': 'large', 'text-align': 'center'}),
   html.Div(id='LungCancerRisk-result1', style={'fontWeight': 'bold', 'color': '#48a1af', 'font-size': 'large', 'text-align': 'center'}),
   html.Div(html.P([html.Br(), html.Br(), html.Br()])),
   html.Div(id = 'LungCancerRisk-result2', style={'width' : '100%', "height": "100%", 'text-align': 'center'}),
