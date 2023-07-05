@@ -129,7 +129,7 @@ def predict(age,age_started_smoking,smoking_status,years_smoking,packs_day,lung_
     data=[[age,age_stopped_smoking,smoking_status,pack_years,age_started_smoking,years_smoking,lung_cancer_family_history,bmi]]
   )
 
-  model = pickle.load(open('models/model_lungs_final.pkl', 'rb'))
+  model = pickle.load(open('models/model_lung_cancer.pkl', 'rb'))
   y_pred_proba = model.predict_proba(df)[:,1]
   y_pred = float(y_pred_proba) * 100
   y_pred = np.round(y_pred, 0)
