@@ -1,5 +1,5 @@
 # LungCancer
-Web app to predict lung cancer risk in the next 10 years. 
+Web app to predict lung cancer risk in the next 5 years. 
 
 ## Data
 
