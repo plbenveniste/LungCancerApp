@@ -1,13 +1,9 @@
 # LungCancer
 
-Pierre-Louis Benveniste $^{1*}$, Julie Alberge $^{2*}$, Lei Xing $^3$, Jean-Emmanuel Bibault $^4$
+Pierre-Louis Benveniste $^{1}$, Julie Alberge $^{2}$
 
 - 1 - Ecole Normale Supérieure de Paris Saclay
 - 2 - École nationale des ponts et chaussées
-- 3 - Laboratory for Artificial Intelligence in Medicine, Stanford University
-- 4 - Radiation Oncology Department, Hôpital Européen Georges Pompidou, AP-HP, Université Paris Cité
-
-*contributed equally
 
 This repository contains the files of the web app to predict lung cancer risk in the next 5 years. 
 
