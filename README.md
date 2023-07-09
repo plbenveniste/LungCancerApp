@@ -1,7 +1,7 @@
 # LungCancer
 Web app to predict lung cancer risk in the next 5 years. 
 
-Pierre-Louis Benveniste $^{1*}$, Julie Alberge $^{2*}$
+Pierre-Louis Benveniste $^{1*}$, Julie Alberge $^{2*}$, Lei Xing $^3$, Jean-Emmanuel Bibault $^4$
 
 - 1 - Ecole Normale Supérieure de Paris Saclay
 - 2 - École nationale des ponts et chaussées
