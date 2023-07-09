@@ -1,5 +1,4 @@
 # LungCancer
-Web app to predict lung cancer risk in the next 5 years. 
 
 Pierre-Louis Benveniste $^{1*}$, Julie Alberge $^{2*}$, Lei Xing $^3$, Jean-Emmanuel Bibault $^4$
 
@@ -9,6 +8,8 @@ Pierre-Louis Benveniste $^{1*}$, Julie Alberge $^{2*}$, Lei Xing $^3$, Jean-Emma
 - 4 - Radiation Oncology Department, Hôpital Européen Georges Pompidou, AP-HP, Université Paris Cité
 
 *contributed equally
+
+This repository contains the files of the web app to predict lung cancer risk in the next 5 years. 
 
 ## Related Paper
 
